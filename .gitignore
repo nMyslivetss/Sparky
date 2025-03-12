@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+out/
+
+# User-specific files
+*.rsuser
+*.sln.ide
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Package dependencies
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# Rider & Resharper
+.idea/
+*.DotSettings.user
